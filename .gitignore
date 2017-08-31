@@ -39,3 +39,6 @@ Session.vim
 
 # SublimeText project files
 *.sublime-workspace
+
+#builds
+build
