@@ -1,0 +1,3 @@
+C:/Users/Xavier/CodeBlocksProjects/android-cmake/build/CMakeFiles/hello.dir
+C:/Users/Xavier/CodeBlocksProjects/android-cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/Xavier/CodeBlocksProjects/android-cmake/build/CMakeFiles/rebuild_cache.dir
